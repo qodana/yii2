@@ -1,4 +1,5 @@
 version: 1.0
+linter: jetbrains/qodana-php:latest
 profile:
     name: qodana.single:PhpVulnerablePathsInspection
 include:
